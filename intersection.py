@@ -6,4 +6,5 @@ final = []
 for i in range(max(a),min(b)+1):
 	final.append(i)
 	
+	
 print(len(final))
